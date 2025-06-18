@@ -2,9 +2,9 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-  [![Website](https://img.shields.io/badge/Website-Visit-brightgreen?style=for-the-badge&logo=google-chrome)](YOUR_WEBSITE_URL)
-  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/kyle-musgrove1)
+  [![Website](https://img.shields.io/badge/Website-Visit-brightgreen?style=for-the-badge&logo=google-chrome)](www.kylemusgrove.com)
+  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:kmusgrove2289@gmail.com)
   
   **Ph.D. Student | AI Researcher | Machine Learning Engineer**
   
@@ -117,9 +117,9 @@ An innovative AI-powered translator that converts modern slang into biblical-sty
 
 <div align="center">
   
-  ![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+  ![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=CuriousNeuralNerd&show_icons=true&theme=tokyonight)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CuriousNeuralNerd&layout=compact&theme=tokyonight)
   
 </div>
 
@@ -131,9 +131,9 @@ I'm always excited to collaborate on innovative AI projects, discuss research id
 
 <div align="center">
   
-  📧 **Email**: [your.email@example.com](mailto:your.email@example.com)  
-  💼 **LinkedIn**: [linkedin.com/in/kylemusgrove](YOUR_LINKEDIN_URL)  
-  🌐 **Website**: [kylemusgrove.com](YOUR_WEBSITE_URL)  
+  📧 **Email**: [your.email@example.com](mailto:kmusgrove2289@gmail.com)  
+  💼 **LinkedIn**: [linkedin.com/in/kylemusgrove](www.linkedin.com/in/kyle-musgrove1)  
+  🌐 **Website**: [kylemusgrove.com](www.kylemusgrove.com)  
   
   ---
   

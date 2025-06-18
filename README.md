@@ -113,19 +113,6 @@ An innovative AI-powered translator that converts modern slang into biblical-sty
 
 ---
 
-## 📊 GitHub Stats
-
-
-<div align="center">
-  
-  ![Kyle's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CuriousNeuralNerd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CuriousNeuralNerd&layout=compact&theme=tokyonight&count_private=true&langs_count=8)
-  
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 I'm always excited to collaborate on innovative AI projects, discuss research ideas, or chat about the latest developments in machine learning. Feel free to reach out!

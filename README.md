@@ -22,7 +22,7 @@ I'm an Applied-AI specialist and Ph.D. student at the University of Tennessee, K
 🎓 **Expected Ph.D. Completion**: 2027  
 🧠 **Research Focus**: Applied AI, Behavioral Biometrics, Medical Imaging, Computer Vision  
 
-When I'm not pushing the boundaries of AI, you'll find me spending quality time with my wife and son, crushing workouts 💪, strategizing over board games 🎲, or exploring new places ✈️.
+When I'm not pushing the boundaries of AI, you'll find me spending quality time with my wife and son, hitting the gym 💪, strategizing over board games 🎲, or exploring new places ✈️.
 
 ---
 

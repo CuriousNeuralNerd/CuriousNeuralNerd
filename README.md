@@ -117,9 +117,9 @@ An innovative AI-powered translator that converts modern slang into biblical-sty
 
 <div align="center">
   
-  ![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=CuriousNeuralNerd&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+  ![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=CuriousNeuralNerd&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CuriousNeuralNerd&layout=compact&theme=tokyonight)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CuriousNeuralNerd&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true&hide=jupyter%20notebook&langs_count=10)
   
 </div>
 

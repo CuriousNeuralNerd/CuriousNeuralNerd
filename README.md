@@ -124,8 +124,8 @@ I'm always excited to collaborate on innovative AI projects, discuss research id
 <div align="center">
   
   📧 **Email**: [kmusgrove2289@gmail.com](mailto:kmusgrove2289@gmail.com)  
-  💼 **LinkedIn**: [linkedin.com/in/kylemusgrove](www.linkedin.com/in/kyle-musgrove1)  
-  🌐 **Website**: [www.kylemusgrove.com](www.kylemusgrove.com)  
+  💼 **LinkedIn**: [linkedin.com/in/kylemusgrove](https://www.linkedin.com/in/kyle-musgrove1)  
+  🌐 **Website**: [www.kylemusgrove.com](https://www.kylemusgrove.com)  
   
   ---
   

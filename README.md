@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-I'm an Applied-AI specialist and Ph.D. student at the University of Tennessee, Knoxville, passionate about developing **robust, multi-modal recognition systems** for real-world deployment. With **8+ years of experience** and **10+ technical projects**, I focus on the intersection of behavioral biometrics, medical vision applications, and cutting-edge AI systems.
+I'm an Applied-AI/ML specialist and Ph.D. student at the University of Tennessee, Knoxville, passionate about developing **robust, multi-modal recognition systems** for real-world deployment. With **8+ years of experience** and **10+ technical projects**, I focus on the intersection of behavioral biometrics, medical vision applications, and cutting-edge AI systems.
 
 🔬 **Research Collaborator** at Oak Ridge National Laboratory (ORNL)  
 🎓 **Expected Ph.D. Completion**: 2027  

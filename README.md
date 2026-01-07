@@ -86,8 +86,8 @@ Web application for employer ratings and financial relocation planning with adva
 Developed a basic operating system kernel in C/C++ for RISC-V architecture from scratch
 `C/C++` `RISC-V` `Systems Programming`
 
-### 📖 AI Slang Bible Translator
-An innovative AI-powered translator that converts modern slang into biblical-style language (because why not? 😄)
+### 📖 Multi-Translation Biblical LLM with Historical Grounding
+An LLM built from scratch on original biblical source texts (Hebrew, Aramaic, Greek) that generates exhaustive translation possibilities for any verse, weighted by linguistic and contextual factors. Integrates archaeological findings, contemporaneous historical documents, and scholarly consensus to provide evidence-based analysis of biblical narratives.
 `NLP` `LLMs` `Creative AI`
 
 ---

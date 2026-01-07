@@ -52,7 +52,7 @@ When I'm not pushing the boundaries of AI, you'll find me spending quality time 
 ## 🔬 Current Research
 
 ### 🚗 Driver Authentication via Multi-Modal Sensor Fusion
-> **Lead Researcher** | Collaboration with ORNL 
+> **Lead Researcher** | Collaboration with ORNL  
 > Developing deep learning models to uniquely identify drivers using CAN-bus, GPS, and biometric sensor data
 
 ### 👤 Facial Recognition Systems
@@ -60,7 +60,7 @@ When I'm not pushing the boundaries of AI, you'll find me spending quality time 
 > Developing robust facial recognition pipelines using deep learning for identity verification
 
 ### 🧠 Large Language Models & RAG Systems
-> **Lead Researcher** | Private Research
+> **Lead Researcher** | Private Research  
 > Developing custom LLMs trained on historical and multilingual corpora, with applications in textual analysis and knowledge grounding and retrieval-augmented generation pipelines for specialized knowledge extraction and text analysis
 
 ### 🏥 3D Lung Nodule Detection & Segmentation

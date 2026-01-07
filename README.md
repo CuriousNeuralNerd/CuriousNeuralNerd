@@ -16,11 +16,11 @@
 
 ## 👋 About Me
 
-I'm an Applied-AI/ML specialist and Ph.D. student at the University of Tennessee, Knoxville, passionate about developing **robust, multi-modal recognition systems** for real-world deployment. With **8+ years of experience** and **10+ technical projects**, I focus on the intersection of behavioral biometrics, medical vision applications, and cutting-edge AI systems.
+I'm an Applied-AI/ML specialist and Ph.D. student at the University of Tennessee, Knoxville, passionate about developing **robust, multi-modal recognition systems** for real-world deployment. With **8+ years of experience** and **10+ technical projects**, I focus on multi-modal recognition systems, medical imaging, facial recognition, large language models, and cutting-edge AI systems for real-world deployment.
 
 🔬 **Research Collaborator** at Oak Ridge National Laboratory (ORNL)  
 🎓 **Expected Ph.D. Completion**: 2027  
-🧠 **Research Focus**: Applied AI, Behavioral Biometrics, Medical Imaging, Computer Vision  
+🧠 **Research Focus**: Applied AI, Behavioral Biometrics, Medical Imaging, Computer Vision, Facial Recognition, LLMs
 
 When I'm not pushing the boundaries of AI, you'll find me spending quality time with my wife and son, hitting the gym 💪, strategizing over board games 🎲, or exploring new places ✈️.
 
@@ -55,9 +55,18 @@ When I'm not pushing the boundaries of AI, you'll find me spending quality time 
 > **Lead Researcher** | Collaboration with ORNL 
 > Developing deep learning models to uniquely identify drivers using CAN-bus, GPS, and biometric sensor data
 
+### 👤 Facial Recognition Systems
+> **Lead Researcher** | University of Tennessee  
+> Developing robust facial recognition pipelines using deep learning for identity verification
+
+### 🧠 Large Language Models & RAG Systems
+> **Lead Researcher** | Private Research
+> Developing custom LLMs trained on historical and multilingual corpora, with applications in textual analysis and knowledge grounding and retrieval-augmented generation pipelines for specialized knowledge extraction and text analysis
+
 ### 🏥 3D Lung Nodule Detection & Segmentation
 > **Collaboration with UT Medical Center**  
 > Building CNN-based systems for lung nodule identification using volumetric CT data, focusing on improving accuracy and reducing false positives
+
 
 ### 💡 Previous Research Highlights
 - **Retrieval-Augmented Generation (RAG)** systems for domain-specific applications

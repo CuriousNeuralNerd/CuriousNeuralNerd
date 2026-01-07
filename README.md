@@ -19,6 +19,7 @@
 I'm an Applied-AI/ML specialist and Ph.D. student at the University of Tennessee, Knoxville, passionate about developing **robust, multi-modal recognition systems** for real-world deployment. With **8+ years of experience** and **10+ technical projects**, I focus on multi-modal recognition systems, medical imaging, facial recognition, large language models, and cutting-edge AI systems for real-world deployment.
 
 🔬 **Research Collaborator** at Oak Ridge National Laboratory (ORNL)  
+🖥️ **Infrastructure Manager** for 4 GPU research machines at MARCI Lab  
 🎓 **Expected Ph.D. Completion**: 2027  
 🧠 **Research Focus**: Applied AI, Behavioral Biometrics, Medical Imaging, Computer Vision, Facial Recognition, LLMs
 
@@ -44,6 +45,9 @@ When I'm not pushing the boundaries of AI, you'll find me spending quality time 
 ### AI/ML Specializations
 `🤖 Deep Learning` `🧠 NLP & LLMs` `👁️ Computer Vision` `🔍 VLMs`  
 `📚 RAG Systems` `🎯 Multi-modal AI` `🏥 Medical Imaging` `🚗 Sensor Fusion`
+
+### Infrastructure
+`🖥️ Multi-GPU Cluster Management` `🔧 Linux System Administration` `👥 Research Computing`
 
 </div>
 
@@ -111,6 +115,10 @@ An LLM built from scratch on original biblical source texts (Hebrew, Aramaic, Gr
 - **COSC 525**: Deep Learning (2024 - Present)
   - Developing CNN and Transformer workshops
   - Mentoring students in architectures like ResNet, RNNs, and Transformers
+ 
+**Lab Infrastructure Manager** @ MARCI Lab
+- Managing four research compute machines for the lab group
+- Handling system administration, user access, and cybersecurity
 
 **Officer** - UTK Machine Learning Club (2024 - Present)
 - Organizing research talks and AI/ML workshops
